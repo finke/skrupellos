@@ -1,0 +1,8 @@
+-/
+ |
+ -/ include Enthält alle datein die irgendwie über ein Include eingebunden werden
+ ||
+ |-/ class  Enthält KLlassendatein, welche alle nach dem Schema "class.[KLassennamen].php" benannt sind wobei alle Buchstaben klein geschrieben werden und vor Großbuchstaben im word ein "_" eingefügt wird
+ |-/lib	Enthält externe Biblioteken
+ -/ install	Enthält nur für die Installation benötigte datein
+ -/ statics	Enthält statiche Datein, wie Bilder, css Datein oder Javascripte. Eventuell sollen diese Später mal durch einen Wrapper geladen werden.

@@ -1,0 +1,9 @@
+SKRUPELLOS - das Portal
+---------------
+Bei SKRUPELLOS handelt es sich um ein Portal, welches sich bemüht, das beliebte Browsergame 
+Skrupel - Tribute Compilation
+gesellschaftsfähig zu machen. Dies beinhaltet insbesondere:
+1. SKRUPELLOS wird eine SocialMedia Plattform für den Skrupelserver, auf der sich die Spieler einzelner Partien auserhalb des Game-Universums treffen, über strategien und ähnliches Plaudern und sich zu neuen Spielen verabreden.
+2. Sol der Kern von Skrupel komplett überarbeitet werden. Dies beinhaltet besonders die Verwendung moderner Programiertechnicken und -paradigmen.
+
+Am ende soll SKRUPELLOS eine modular aufgebaute Plattform sein, bei der der Admin bestimmen kann welche Module für wen erlaubt sind und welche nicht. Weiterhin soll daraus eine Skrupel Version entstehen, welche ohne schwierigkeiten wieder aus dem Portal gelöst, getrennt voneinander entwickelt und bei bedarf unabhänig voneinander genutz werden können. Eventuell finden sich ja noch weitere Browser games ein, die sich unter dieser Plattform vereinigen lassen.

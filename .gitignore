@@ -1,0 +1,23 @@
+# .gitignore niemals ausschlieﬂen
+!.gitignore
+
+# Betriebssystem speziefiche Datein
+Thumbs.db
+*~
+.DS_Store
+#Sicherung der Datenabnk
+development/*.mwb.bak
+
+# Konfigurationsdatein
+include/inc.config.php
+
+# Dreamweaver, Eclipse und SVN ausschlieﬂen
+_notes
+.settings
+.buildpath
+.project
+.svn
+
+#Logdatein und cach
+cache/
+log/*.log

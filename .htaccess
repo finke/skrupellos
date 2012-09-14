@@ -1,0 +1,12 @@
+
+# Include datein nie ausliefern
+<Files inc.*>
+Order allow,deny
+Deny from all
+</Files>
+
+# Klassen auch nicht
+<Files class.*.php>
+Order allow,deny
+Deny from all
+</Files>
